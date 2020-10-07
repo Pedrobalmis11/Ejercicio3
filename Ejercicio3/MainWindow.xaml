@@ -10,6 +10,7 @@
         Height="450"
         Width="800">
     <Grid>
+        
         <Image x:Name="posterImage"
                HorizontalAlignment="Left"
                Height="357"
